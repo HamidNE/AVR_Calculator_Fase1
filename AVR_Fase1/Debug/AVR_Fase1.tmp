@@ -1,0 +1,58 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\Debug\AVR_Fase1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AVR_Fase1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AVR_Fase1.map</FILE>
+  <FILE>AVR_Fase1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <LOP1><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>27</LINE></LOP1>
+  <CONVERT_FOR_7_SEGMENT><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>542</LINE></CONVERT_FOR_7_SEGMENT>
+  <DELAY><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>613</LINE></DELAY>
+  <LOP2><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>73</LINE></LOP2>
+  <LOP3><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>119</LINE></LOP3>
+  <LOP4><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>165</LINE></LOP4>
+  <L0><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>214</LINE></L0>
+  <LOOP1><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>219</LINE></LOOP1>
+  <LOOP2><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>238</LINE></LOOP2>
+  <LOOP3><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>265</LINE></LOOP3>
+  <LOOP4><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>300</LINE></LOOP4>
+  <LOOP5><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>335</LINE></LOOP5>
+  <LOOP6><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>370</LINE></LOOP6>
+  <LOOP7><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>396</LINE></LOOP7>
+  <LOOP8><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>414</LINE></LOOP8>
+  <LOOP9><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>440</LINE></LOOP9>
+  <LOOP10><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>475</LINE></LOOP10>
+  <LOOP11><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>510</LINE></LOOP11>
+  <CF7S01><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>549</LINE></CF7S01>
+  <FOR_RET><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>605</LINE></FOR_RET>
+  <CF7S02><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>555</LINE></CF7S02>
+  <CF7S03><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>561</LINE></CF7S03>
+  <CF7S04><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>567</LINE></CF7S04>
+  <CF7S05><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>573</LINE></CF7S05>
+  <CF7S06><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>579</LINE></CF7S06>
+  <CF7S07><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>585</LINE></CF7S07>
+  <CF7S08><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>591</LINE></CF7S08>
+  <CF7S09><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>597</LINE></CF7S09>
+  <CF7SEND><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>603</LINE></CF7SEND>
+  <D0><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>618</LINE></D0>
+  <D1><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>620</LINE></D1>
+  <D2><FILE>c:\users\hamidne\Documents\Atmel Studio\7.0\AVR_Fase1\AVR_Fase1\main.asm</FILE><LINE>622</LINE></D2>
+ </LABELS>
+</ASSEMBLER_INFO>
